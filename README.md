@@ -1,0 +1,1 @@
+In this project I'm going to apply the knowledge I have gained at ALX-Africa in HTML,CSS and Javascript to create a digital clock😊.
